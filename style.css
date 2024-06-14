@@ -1,0 +1,35 @@
+
+
+body {
+    background-image: url(https://img.freepik.com/premium-photo/ingredients-cooking-food-background-with-herbs-vegetables-top-view-white-background_1040174-1574.jpg);
+    background-size: cover;
+    background-color: rgba(118, 82, 51, 0.683);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ing {
+    color: rgb(158, 39, 26);
+    font-size: 17px;
+    font-weight: bold;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.rec_text {
+    background-color: rgba(200, 200, 199, 0.662);
+    font-size: 15px;
+}
+ol {background-color: rgba(200, 200, 199, 0.806) ;
+    text-align: left;}
